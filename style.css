@@ -3,3 +3,13 @@ input{
    font-color:white;
    background-image:images (2).jpg ;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+p{
+    color: white;
+}

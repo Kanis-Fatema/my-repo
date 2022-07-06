@@ -27,3 +27,9 @@ section{
     font-weight: 700;
     border-radius: 5px;
 }
+section{
+    text-align: center;
+}
+a{
+    text-align: center;
+}

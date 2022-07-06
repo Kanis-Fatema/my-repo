@@ -42,6 +42,7 @@ section{
 }
 
 .tk{
+   background-image:linear-gradient(pink,white);
     border-bottom: 2px solid palevioletred;
     border-top: 2px solid palevioletred;
     border-left: 2px solid palevioletred;
@@ -50,13 +51,11 @@ section{
     font-weight: 200;
 }
 .tk1{
-    .tk{
+        background-image:linear-gradient(black,white);
         text-align: center;
         font-weight: 200;
         border-bottom: 2px solid white;
         border-top: 2px solid white;
         border-left: 2px solid white;
         border-right: 2px solid white;
-        font
-    }
 }
